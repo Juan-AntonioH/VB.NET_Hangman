@@ -1,0 +1,16 @@
+C:\Users\Juan\source\repos\practicahangman\bin\Debug\practicahangman.exe.config
+C:\Users\Juan\source\repos\practicahangman\bin\Debug\practicahangman.exe
+C:\Users\Juan\source\repos\practicahangman\bin\Debug\practicahangman.pdb
+C:\Users\Juan\source\repos\practicahangman\bin\Debug\practicahangman.xml
+C:\Users\Juan\source\repos\practicahangman\obj\Debug\practicahangman.vbproj.AssemblyReference.cache
+C:\Users\Juan\source\repos\practicahangman\obj\Debug\practicahangman.Form1.resources
+C:\Users\Juan\source\repos\practicahangman\obj\Debug\practicahangman.Resources.resources
+C:\Users\Juan\source\repos\practicahangman\obj\Debug\practicahangman.vbproj.GenerateResource.cache
+C:\Users\Juan\source\repos\practicahangman\obj\Debug\practicahangman.vbproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\practicahangman\obj\Debug\practicahangman.exe
+C:\Users\Juan\source\repos\practicahangman\obj\Debug\practicahangman.xml
+C:\Users\Juan\source\repos\practicahangman\obj\Debug\practicahangman.pdb
+C:\Users\Juan\source\repos\practicahangman\obj\Debug\practicahangman.Dictionary.resources
+C:\Users\Juan\source\repos\practicahangman\obj\Debug\practicahangman.Level.resources
+C:\Users\Juan\source\repos\practicahangman\obj\Debug\practicahangman.AcercaDe.resources
+C:\Users\Juan\source\repos\practicahangman\obj\Debug\practicahangman.ComoJugar.resources
